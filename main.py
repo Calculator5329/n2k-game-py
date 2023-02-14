@@ -15,7 +15,7 @@ screen.fill(SCREEN_COLOR)
 # End game screen
 def end_screen(score):
     # Text Font
-    my_font = "arial"
+    my_font = "comicsansms"
     
     # Update screen background
     screen.fill(SCREEN_COLOR)
